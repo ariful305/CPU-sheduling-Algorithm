@@ -1,8 +1,3 @@
-Here is a clean, complete, well-formatted **README.md** for your repository **CPU Scheduling Algorithm**.
-You can copy–paste this directly into GitHub.
-
----
-
 # ⏱️ CPU Scheduling Algorithms – C++ Implementations
 
 This repository contains simple, clean, and easy-to-understand implementations of major **CPU Scheduling Algorithms** used in Operating Systems.
